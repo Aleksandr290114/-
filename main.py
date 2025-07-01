@@ -36,7 +36,3 @@ while run:
 pygame.display.quit()   
 pygame.quit()
 
-
-
-
-
